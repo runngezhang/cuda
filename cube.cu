@@ -1,3 +1,4 @@
+//Program to cube a bunch of numbers from an array
 #include<iostream>
 #include<cuda.h>
 using namespace std;
